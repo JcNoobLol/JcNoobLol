@@ -1,16 +1,14 @@
-### Hi there 👋
+#👋Hi There Welcome to my profile
 
-<!--
-**JcNoobLol/JcNoobLol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Im a Student programmer (by the way am  starting to learn some more stuff on html/js/css)<p/>
 
-Here are some ideas to get you started:
+<p>Where are you at good on Programming Language?</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/JcNoobLol/JcNoobLol/main/src/Javascript.png" width="50">
+<img src="https://raw.githubusercontent.com/JcNoobLol/JcNoobLol/main/src/html1.png" width="50">
+<img src="https://raw.githubusercontent.com/JcNoobLol/JcNoobLol/main/src/css.png" width="50">
+
+<p>Ok but are you good at developing?</p>
+<p>No but i cant make a basic stuff..</p>
+
+<b>Oke bye.</b>
