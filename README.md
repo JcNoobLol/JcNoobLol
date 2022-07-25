@@ -1,4 +1,4 @@
-#👋Hi There Welcome to my profile
+<b>👋Hi There Welcome to my profile</b>
 
 <p>Im a Student programmer (by the way am  starting to learn some more stuff on html/js/css)<p/>
 
