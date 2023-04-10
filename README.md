@@ -17,4 +17,5 @@
 <p> I love lisening music like 90s or New Songs ye. if you want my playlist here <a href='https://open.spotify.com/playlist/0hSVWtdDUW65KXFSezagyl?si=cb73510f121e453c'>Random Music ye</a>
 <p>Btw if you want to contact me direct email here:
 <a href="mailto:okishitmyselfxd@gmail.com">Email</a>
+<img src='https://raw.githubusercontent.com/JcNoobLol/JcNoobLol/main/dai%20racis.PNG' width='200'>
 </details>
