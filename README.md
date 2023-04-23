@@ -18,5 +18,7 @@
 <p>Btw if you want to contact me direct email here:
 <a href="mailto:okishitmyselfxd@gmail.com">Email</a>
 <br><br>
-<img src='https://raw.githubusercontent.com/JcNoobLol/JcNoobLol/main/dai%20racis.PNG' width='200'>
+
+[![Discord Presense](https://lanyard.cnrad.dev/api/893846216734031872)](https://discord.gg/YFY8EQQhDN)
+<img src='https://discord-readme-badge.vercel.app/api?id=893846216734031872' width='300'>
 </details>
