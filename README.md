@@ -19,6 +19,6 @@
 <a href="mailto:okishitmyselfxd@gmail.com">Email</a>
 <br><br>
 
-[![Discord Presense](https://lanyard.cnrad.dev/api/893846216734031872)](https://discord.gg/YFY8EQQhDN)
+
 <img src='https://discord-readme-badge.vercel.app/api?id=893846216734031872' width='300'>
 </details>
