@@ -1,9 +1,6 @@
 ## Hi I'm Jc <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width="30">
 
-<p>I'm a basic developer who isn't very good at coding and creates random things. </p>
-<p>Visitor Profile Counter</p>
-<img src='https://visitor-badge.glitch.me/badge?page_id=jcnooblol&left_color=blue&right_color=black;'>
-
+<p>I'm a basic developer who isn't very good at coding and creates random things. </p>
 <p>Top technologies that I most used:</p>
 <img src='https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white' width="100">
 <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' >
@@ -18,7 +15,5 @@
 <p>Btw if you want to contact me direct email here:
 <a href="mailto:okishitmyselfxd@gmail.com">Email</a>
 <br><br>
-
-
 <img src='https://discord-readme-badge.vercel.app/api?id=893846216734031872' width='300'>
 </details>
